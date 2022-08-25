@@ -10,11 +10,11 @@ import time
 # Connecting to Twitter API
 # Pytweet link - https://github.com/PyTweet/PyTweet/tree/master/
 client = pytweet.Client(
-    "AAAAAAAAAAAAAAAAAAAAAHLbgAEAAAAAH1Pejzy3rS6ZyVmEBQ2iTQTtew4%3DydwSDzWK2sFatOdHgGPsl2FOG2V43604xUEHLcvXEW7gYWAK0w",
-    consumer_key="DfIabDgzwrNm2i0JNThaPOG2b",
-    consumer_key_secret="aaoHxeACfCkGeuTMuiuR2wwiKhANamk518qCxJVDUI2ypPRldU",
-    access_token="1561011215752564736-oJmHJrT9arByqfgxiJjd39u0LRsxDN",
-    access_token_secret="Cb9uatzNFBhrxzb3DV8xFsjzX2O27SJ0UIncSn7P2BjJc",
+    "Add your bearer token here",
+    consumer_key="Add your consumer key here",
+    consumer_key_secret="Add your secret key here",
+    access_token="Add your access token here",
+    access_token_secret="Add your secret access token here",
 ) 
 
 while(True):
